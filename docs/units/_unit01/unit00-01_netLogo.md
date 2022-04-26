@@ -25,7 +25,7 @@ In Netlogo findet Sie unter "File" die "Models Library". Suchen Sie dort nach [E
 ### Schritt 1: das NetLogo Modell durchdringen
 Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zunächst anhand des ODD Protocols beschreiben. Diese Beschreibung hilft Ihnen bei der Formulierung einer Fragestellung und wird in der Präsentation benötigt, um die verwendete Methode gut darstellen zu können. 
 
-*Tabelle 1 ODD-Protokoll nach: Railsback & Grimm (2019): Agent-Based and Individual-Based Modeling* 
+*Tabelle 1 ODD-Protokoll nach Railsback & Grimm (2019): Agent-Based and Individual-Based Modeling* 
 
 |               |Elements of the ODD protocol               |
 |---------------|-------------------------------------------|
