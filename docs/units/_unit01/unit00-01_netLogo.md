@@ -60,7 +60,7 @@ Nachdem Sie das Modell in der Tiefe durchdrungen haben sollen Sie es anwenden. D
 * Entwickeln Sie ein Vorgehen, dass es Ihnen erlaubt auf Grundlage von reproduzierbar Daten die Fragestellung zu beantworten.
 * Interpretieren und diskutieren Sie Ihre Ergebnisse.
 
-Bis zur Sitzung am 10.05. sollen Sie Ihre Fragestellung überarbeitet haben. Zusätzlich sollen Sie in einem ersten Entwurf aufzeigen, wie sich Ihre Fragestellung unter Einsatz des enstprechenden Modells systematisch überprüfen lässt. Verschriftlichen Sie Ihre Fragestellung und methodischen Überlegungen und laden Sie bis Montagabend 20 Uhr im entsprechenden Ilias-Ordner hoch.  
+Bis zur Sitzung am 10.05. sollen Sie Ihre Fragestellung überarbeitet haben. Zusätzlich sollen Sie in einem ersten Entwurf aufzeigen, wie sich Ihre Fragestellung unter Einsatz des enstprechenden Modells systematisch überprüfen lässt. Verschriftlichen Sie Ihre Fragestellung und methodischen Überlegungen und laden Sie Ihr Dokument bis Montagabend 20 Uhr im entsprechenden Ilias-Ordner hoch.  
 {: .notice--success}
 
 
