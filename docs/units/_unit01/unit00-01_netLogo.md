@@ -1,6 +1,7 @@
 ---
 title: Modellieren mit Netlogo
-header: TRUE
+header: 
+toc: true 
   image: "/assets/images/climate-splash.png"
   caption: 'Photo: **Rieke Ammoneit**'
 ---
