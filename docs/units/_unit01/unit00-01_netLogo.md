@@ -64,6 +64,6 @@ Nachdem Sie das Modell in der Tiefe durchdrungen haben sollen Sie es anwenden. D
 Bis zur Sitzung am 10.05. sollen Sie Ihre Fragestellung überarbeitet haben. Zusätzlich sollen Sie in einem ersten Entwurf aufzeigen, wie sich Ihre Fragestellung unter Einsatz des enstprechenden Modells systematisch überprüfen lässt. Verschriftlichen Sie Ihre Fragestellung und methodischen Überlegungen und laden Sie Ihr Dokument bis Montagabend 20 Uhr im entsprechenden Ilias-Ordner hoch.  
 {: .notice--success}
 
-Bis zur Sitzung am 11.05. sollen Sie Ihre Fragestellung durch einen Bezug zur Echtwelt motivieren, sie sollen Ihre Ergebnisse interpretieren z.B. durch Bezugnahme auf Realraumbeispiele und die Grenzen des Models bezgl. Ihre Interpretation diskutieren. Sie können den Aufbau Ihrer gesamten Präsentation skizzieren indem Sie zusätzlich Ihre Methode darlegen, d.h. das Model vorstellen und Ihr Vorgehen offenlegen, und die Modellergebnis prägnant darstellen.
+Bis zur Sitzung am 17.05. sollen Sie Ihre Fragestellung durch einen Bezug zur Echtwelt motivieren, sie sollen Ihre Ergebnisse interpretieren z.B. durch Bezugnahme auf Realraumbeispiele und die Grenzen des Models bezgl. Ihre Interpretation diskutieren. Sie können den Aufbau Ihrer gesamten Präsentation skizzieren indem Sie zusätzlich Ihre Methode darlegen, d.h. das Model vorstellen und Ihr Vorgehen offenlegen, und die Modellergebnis prägnant darstellen.
 {: .notice--success}
 
