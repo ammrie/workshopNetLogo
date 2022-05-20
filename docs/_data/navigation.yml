@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Kurseinheiten"
+  - title: "Units"
     url: /units.html
 
 
@@ -8,6 +8,6 @@ main:
 docs:
   - title: Ways out
     children:
-      - title: "Kurseinheiten"
+      - title: "Units"
         url: /units.html
 
