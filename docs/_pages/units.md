@@ -1,5 +1,5 @@
 ---
-title: Kurseinheiten
+title: Units
 id: Units
 header:
   image: "/assets/images/title-splash.jpg"
