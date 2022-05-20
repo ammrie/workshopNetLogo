@@ -7,9 +7,9 @@ header:
   overlay_filter: 0.6
   overlay_image: "/assets/images/title-splash.jpg"
   caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
-  cta_label: Zum Kursinhalt
+  cta_label: start
   cta_url: "/units.html"
-excerpt: Spezielle Fachdidaktik
+excerpt: Workshop NetLogo
 feature_row_intro:
 - excerpt: Workshop held at [Adam Mickiewicz University Posnan](http://international.amu.edu.pl) as a part of [LiMa](https://www.uni-marburg.de/de/zfl/projekte/lima).
 feature_row_ilos:
