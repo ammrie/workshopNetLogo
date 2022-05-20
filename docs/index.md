@@ -22,7 +22,7 @@ feature_row_ilos:
 {% include feature_row id="feature_row_intro" type="center" %}
 
 ## Welcome to the NetLogo Workshop!
-There will be a discussion the modeling systems in geography education first, before NetLogo is used and discussed as a tool to reach educational goals. 
+In this workshop I will introduce some methods I teach in Germany. I am looking forward to discuss their potential for the Polish context. This is a first trail, so let's see how this exchange works for all of us and what kind of international cooperation we could benefit from in the future.  
 
 
 ## Overview 
