@@ -1,5 +1,5 @@
 ---
-title: Spezielle Fachdidaktik
+title: Workshop NetLogo
 layout: splash
 date: '2018-02-06 13:00:00 +0100'
 header:
@@ -11,7 +11,7 @@ header:
   cta_url: "/units.html"
 excerpt: Spezielle Fachdidaktik
 feature_row_intro:
-- excerpt: Verteifungskurs im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg
+- excerpt: Workshop held at [Adam Mickiewicz University Posnan](http://international.amu.edu.pl) as a part of [LiMa](https://www.uni-marburg.de/de/zfl/projekte/lima).
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
@@ -21,28 +21,18 @@ feature_row_ilos:
 
 {% include feature_row id="feature_row_intro" type="center" %}
 
-Herzlich willkommen im Modul spezielle Fachdidaktik!
-Hier wird in die Modellierung und ihre Bedeutung für die Geographie eingeführt und anschließend ihr Einsatz im Unterricht diskutiert.
+Welcome to the NetLogo Workshop!
+There will be a discussion the modeling systems in geography education first, before NetLogo is used and discussed as a tool to reach educational goals. 
 
 
-## Allgemeines 
-Der Kurs setzt sich für fachliche und fachdidaktische Inhalte jeweils aus theoretischen und praktischen Anteilen zusammen. Sie werden während des Semesters in Kleingruppen arbeiten. Dabei ist es unerlässlich, dass jedes Gruppenmitglied alle Texte liest.
+## Overview 
+The workshop will integrate input, discussion and hands-on activity. There will be a focus on international exchange on geography education and an introduction to a computer-based approach to modeling. The workshop will take 2 x 2.15 hours. 
 
-## Ziele
-Am Ende dieses Moduls können Sie
-* die Bedeutung der Modellierung für die Geographie skizzieren
-* ein Modell nach wissenschaftlichen Standards beschreiben
-* ein Modell anwenden, um wissenschaftliche Erkenntnis zu generieren
-* die Bedeutung der Modellierung für das Fach Erdkunde diskutieren
-
-## Kursmerkmale
-6 ECTS im Umfang als
-Präsenzkurs, der Anwesenheit voraussetzt.
-
-## Studien- und Prüfungsleistung
-Die Studienleistung wird durch eine Präsentation im Seminar erbracht.
-Die Prüfungsleistung wird in Form einer schriftlichen Ausarbeitung erbacht.
-Die Studeinleitung soll und die Prüfungsleistung kann in Gruppenarbeit erbacht werden.
+## Goals
+At the end of the workshop you:
+* know the approach of modeling systems in geography education and can refelect on its relevance for polish educational goals
+* can handle the NetLogo interface and use models from the NetLogo library
+* are able to refelct on NetLogos potential for a Geography lessons
 
 
 
