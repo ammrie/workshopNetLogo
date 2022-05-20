@@ -21,7 +21,7 @@ feature_row_ilos:
 
 {% include feature_row id="feature_row_intro" type="center" %}
 
-Welcome to the NetLogo Workshop!
+## Welcome to the NetLogo Workshop!
 There will be a discussion the modeling systems in geography education first, before NetLogo is used and discussed as a tool to reach educational goals. 
 
 
