@@ -34,6 +34,7 @@ At the end of the workshop you:
 * can handle the NetLogo interface and use models from the NetLogo library
 * are able to refelct on NetLogos potential for a Geography lessons
 
+I hope you enjoy! If there any questions later on, feel free to contact me.
 
 
 {% for author in site.data.authors %} 
