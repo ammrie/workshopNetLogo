@@ -6,7 +6,7 @@ header:
   caption: 'Photo: **Rieke Ammoneit**'
 ---
 
-We will now start with to work with NetLogo. You will find some general information here and should choose one of the models on the following pages. 
+We will now start to work with NetLogo. You will find some general information here and should choose one of the models on the following pages. 
 
 <!--more-->
 
