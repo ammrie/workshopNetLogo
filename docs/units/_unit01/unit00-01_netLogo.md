@@ -6,8 +6,7 @@ header:
   caption: 'Photo: **Rieke Ammoneit**'
 ---
 
-
-Im ersten Arbeitsblock sollen Sie die Modellierung als fachliche Methode durchdringen. Sie sollen dafür ein NetLogo Modell beschreiben und zur Beantwortung einer Fragestellung in die Anwendung bringen.
+We will now start with to work with NetLogo. You will find some general information here and should choose one of the models on the following pages. 
 
 <!--more-->
 
@@ -16,12 +15,10 @@ Innerhalb dieses Arbeitsblockes erbringen Sie Ihre Studienleistung. Die Studienl
 {: .notice--success}
 
 
-### Die NetLogo Modellierungssoftware
-Um arbeiten zu können benötigen Sie die Software NetLogo. Die freie Software können Sie in einer passenden Version für Ihr Betriebssystem auf der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. Die Installation ist für den Kurs sehr sinnvoll.
+### NetLogo software
+During this workshop you can work with the embedded web-version of NetLogo (see following pages). If you want to continue working with NetLogo you can download the free software [here](https://ccl.northwestern.edu/netlogo/6.2.0/) and install it.
 
-In Netlogo findet Sie unter "File" die "Models Library". Suchen Sie dort nach [Erosion](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Earth%20Science/Erosion.nlogo) und [Segregation](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Segregation.nlogo). Die zwei sehr unterschiedlichen  Modelle simulieren die Genese von räumlichen Strukturen. Entscheiden Sie sich in Ihrer Gruppe für ein Modell mit dem Sie arbeiten wollen.
-{: .notice--info}
-
+This [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html) is helpful as a comprehensive starter, you don't need it for this workshop but might want to look at it late. If you want to go ahead and understand the code the [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) and the [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/) will be helpful. 
 
 ### Schritt 1: das NetLogo Modell durchdringen
 Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zunächst anhand des ODD Protocols beschreiben. Diese Beschreibung hilft Ihnen bei der Formulierung einer Fragestellung und wird in der Präsentation benötigt, um die verwendete Methode gut darstellen zu können. 
@@ -50,10 +47,7 @@ Damit Sie das NetLogo Model in seiner Anwendung durchdringen, sollen Sie es zun�
 |               |7. Submodels                               |
 
 
-Für ein vertieftes Verständnis kann es dabei sinnvoll sich den Quellcode des Models zu erarbeiten. Hilfreich für den Einstieg ist dieses [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html), das [NetLogo Dictionary](https://ccl.northwestern.edu/netlogo/docs/dictionary.html) und der [beginner's guide to NetLogo programming](http://ccl.northwestern.edu/netlogo/bind/). 
 
-Bis zur Sitzung am 03.05. sollen Sie das [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html) durchgearbeitet haben, sowie das NetLogo-Modell Ihrer Wahl anhand des ODD Protocols beschrieben haben (die Erläuterung des Protokolls sowie ein Beispiel finden sie [hier in Kapitel 3](https://ilias.uni-marburg.de/goto.php?target=file_2830364_download&client_id=UNIMR). Lassen Sie hierfür "Purpose and Patterns" zunächst aus. Außerdem sollen Sie eine erste Fragestellung formuliert haben.
-{: .notice--success}
 
 ### Schritt 2: das NetLogo Modell anwenden
 Nachdem Sie das Modell in der Tiefe durchdrungen haben sollen Sie es anwenden. Die Darstellung der Anwendung und ihrer Ergebnisse ist Inhalt Ihrer Präsentation. 
@@ -61,9 +55,4 @@ Nachdem Sie das Modell in der Tiefe durchdrungen haben sollen Sie es anwenden. D
 * Entwickeln Sie ein Vorgehen, dass es Ihnen erlaubt auf Grundlage von reproduzierbar Daten die Fragestellung zu beantworten.
 * Interpretieren und diskutieren Sie Ihre Ergebnisse.
 
-Bis zur Sitzung am 10.05. sollen Sie Ihre Fragestellung überarbeitet haben. Zusätzlich sollen Sie in einem ersten Entwurf aufzeigen, wie sich Ihre Fragestellung unter Einsatz des enstprechenden Modells systematisch überprüfen lässt. Verschriftlichen Sie Ihre Fragestellung und methodischen Überlegungen und laden Sie Ihr Dokument bis Montagabend 20 Uhr im entsprechenden Ilias-Ordner hoch.  
-{: .notice--success}
-
-Bis zur Sitzung am 17.05. sollen Sie Ihre Fragestellung durch einen Bezug zur Echtwelt motivieren, sie sollen Ihre Ergebnisse interpretieren z.B. durch Bezugnahme auf Realraumbeispiele und die Grenzen des Models bezgl. Ihre Interpretation diskutieren. Sie können den Aufbau Ihrer gesamten Präsentation skizzieren indem Sie zusätzlich Ihre Methode darlegen, d.h. das Model vorstellen und Ihr Vorgehen offenlegen, und die Modellergebnis prägnant darstellen.
-{: .notice--success}
 
