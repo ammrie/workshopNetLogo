@@ -10,8 +10,7 @@ We will now start with to work with NetLogo. You will find some general informat
 
 <!--more-->
 
-
-Innerhalb dieses Arbeitsblockes erbringen Sie Ihre Studienleistung. Die Studienleistung besteht aus einem 15-minütigem Vortrag mit anschließender Diskussion in dem Sie Ihr Modell und die von Ihnen bearbeitete Fragestellung inklusive der Ergebnisse vorstellen und diskutieren. 
+Your group should decide on a model, work through the assignments on the models pages and prepare a short presentation (5 minutes) of the model and your results.
 {: .notice--success}
 
 
