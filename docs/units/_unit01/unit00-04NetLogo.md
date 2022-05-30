@@ -7,6 +7,8 @@ header:
 ---
 
 
-Im ersten Arbeitsblock sollen Sie die Modellierung als fachliche Methode durchdringen. Sie sollen dafür ein NetLogo Modell beschreiben und zur Beantwortung einer Fragestellung in die Anwendung bringen.
+The model Segregation describes how segregation pattern occur in spaces, it is a human geographic model. 
 
 <!--more-->
+
+{% include media url="/assets/misc/Segregation.html" %}
