@@ -17,17 +17,18 @@ The model Segregation describes how segregation pattern occur in spaces, it is a
 
 Try to answer the following questions by adjusting the settings of the model world using the sliders:
 
-* How many cooperative cows can live on the pasture?
-* How many greedy cows fit on the pasture?
-* Which cows in mixed housing dominate in the short term, and which cows dominate in a long time?
-* What do you think is the best result you can yield with the model? Why?
+* How similar are the neighborhoods in average and percentage depending on the slider similarity-wanted?
+* How does the initial occupancy density affect the time for the model to finish? 
+* Can you set sliders so that the model never finishes running and agents keep looking for new locations? 
+* Which slider setup minimizes the time until all agents are happy?
+* How do the segregation patterns vary when changing the sliders occupancy density and the similarity-wanted?
 
 ### Understand the model
 Try to understand how the model works, and read the model info section to access the fundamental ideas.
 
-*	What is the difference between greedy and cooperative cows?
-*	Under which conditions does each of the breeds benefit? Why?
-*	What properties do the patches - the land fields of the model - have?
+* When are the agents happy?
+* When do they move?
+* Why does the density impact the segregation patterns?
 
 Prepare to present your model to your peers in a max of 5 minutes. You may cooperate with other groups working on the same model.{: .notice--success}
 
