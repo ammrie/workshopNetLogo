@@ -6,7 +6,8 @@ header:
   caption: 'Photo: **Rieke Ammoneit**'
 ---
 
-
-Im ersten Arbeitsblock sollen Sie die Modellierung als fachliche Methode durchdringen. Sie sollen dafür ein NetLogo Modell beschreiben und zur Beantwortung einer Fragestellung in die Anwendung bringen.
+The model river meanders describes the formation of meanders, it is a straight-forward physical geography model.
 
 <!--more-->
+
+{% include media url="/assets/misc/River Meanders.html" %}
