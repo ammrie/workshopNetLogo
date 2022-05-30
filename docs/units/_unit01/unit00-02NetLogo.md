@@ -1,5 +1,5 @@
 ---
-title: Modellieren mit Netlogo
+title: Model river meanders
 toc: true 
 header: 
   image: "/assets/images/climate-splash.jpg"
