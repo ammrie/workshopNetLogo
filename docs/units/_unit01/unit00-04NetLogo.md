@@ -1,5 +1,5 @@
 ---
-title: Model Segregation
+title: Model segregation
 toc: true 
 header: 
   image: "/assets/images/climate-splash.jpg"
