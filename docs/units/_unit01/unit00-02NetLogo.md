@@ -12,6 +12,7 @@ The model river meanders describes the formation of meanders, it is a physical g
 
 {% include media url="/assets/misc/River Meanders.html" %}
 
+If the model runs to slow try running it [here](http://www.netlogoweb.org/launch#http://ccl.northwestern.edu/netlogo/models/models/Sample%20Models/Earth%20Science/River%20Meanders.nlogo)
 
 ### Use the model
 Try to answer the following questions by adjusting the settings of the model world using the sliders:
