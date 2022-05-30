@@ -13,6 +13,8 @@ The model Segregation describes how segregation pattern occur in spaces, it is a
 
 {% include media url="/assets/misc/Segregation.html" %}
 
+If the model runs to slow, try running it [here](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Segregation.nlogo)
+
 ### Use the model
 
 Try to answer the following questions by adjusting the settings of the model world using the sliders:
