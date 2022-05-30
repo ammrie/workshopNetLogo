@@ -1,12 +1,12 @@
 ---
-title: Exkurs Systemdynamik
+title: Systemdynamics
 toc: true
 header:
   image: "/assets/images/ltg-splash.jpg"
   caption: 'Photo: [**Rachel Smith**](https://www.flickr.com/photos/ninmah/)'
 ---
 
-Diese Seite gehört nicht zu Kursinhalten, sondern bietet einen Exkurs für alle, die über die agentenbasierte Modellierung hinaus blicken wollen.
+This page is not part of the course content, but provides an excursion for anyone who wants to look beyond agent-based modeling.
 <!--more-->
 
 
