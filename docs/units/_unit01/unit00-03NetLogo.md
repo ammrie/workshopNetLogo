@@ -27,7 +27,8 @@ Try to understand how the model works, and read the model info section to access
 *	Under which conditions does each of the breeds benefit? Why?
 *	What properties do the patches - the land fields of the model - have?
 
-Prepare to present your model to your peers in a max of 5 minutes. You may cooperate with other groups working on the same model.{: .notice--success}
+Prepare to present your model to your peers in a max of 5 minutes. You may cooperate with other groups working on the same model.
+{: .notice--success}
 
 ### Interpreting the model
 To become scientifically literate, students should learn to:
@@ -44,4 +45,5 @@ In consideration of these aims, please think about:
 * The knowledge gained by applying the model.
 * The evidence this knowledge is based on.
 
-Prepare to present your model to your peers in a max of 5 minutes. You may cooperate with other groups working on the same model.{: .notice--success}
+Prepare to present your model to your peers in a max of 5 minutes. You may cooperate with other groups working on the same model.
+{: .notice--success}
