@@ -30,9 +30,9 @@ The workshop will integrate input, discussion and hands-on activity. There will 
 
 ## Goals
 At the end of the workshop you:
-* know the approach of modeling systems in geography education and can refelect on its relevance for polish educational goals
+* know the approach of modeling systems in geography education and can refelect on its relevance for Polish educational goals
 * can handle the NetLogo interface and use models from the NetLogo library
-* are able to refelct on NetLogos potential for a Geography lessons
+* are able to refelct on NetLogos potential for a geography lessons
 
 ## Survey
 At the end of the workshop I will ask you to fill out this [survey](
