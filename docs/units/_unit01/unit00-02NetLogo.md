@@ -6,7 +6,7 @@ header:
   caption: 'Photo: **Rieke Ammoneit**'
 ---
 
-The model river meanders describes the formation of meanders, it is a straight-forward physical geography model.
+The model river meanders describes the formation of meanders, it is a physical geography model and compared to the other options presented hier rather complex.
 
 <!--more-->
 
