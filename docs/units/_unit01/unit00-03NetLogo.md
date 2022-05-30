@@ -27,7 +27,7 @@ The cooperation model works according to the basic rule:
 ### Use the model
 Try to answer the following questions by adjusting the settings of the model world using the sliders:
 
-* how many sustainably raised cows can live on the pasture
-* how many cows in non-sustainable husbandry fit on the pasture
-* which cows in mixed housing dominate in the short term and which cows dominate in the long term
-* what do you think is the best result? Why?
+* How many sustainably raised cows can live on the pasture?
+* How many cows in non-sustainable husbandry fit on the pasture?
+* Which cows in mixed housing dominate in the short term and which cows dominate in the long term?
+* What do you think is the best result? Why?
