@@ -41,4 +41,5 @@ In consideration of these aims, please think about:
 * A real world scenario the model can be interpreted for. 
 * An according research question that can be investigate by applying the model.
 * The knowlegde gained by applying the model.
-* 
+* The evidence this knowledge is based on.
+
