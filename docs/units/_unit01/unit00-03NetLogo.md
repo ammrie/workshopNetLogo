@@ -12,26 +12,22 @@ The model cooperation is useful for the context of education for sustainable dev
  
  {% include media url="/assets/misc/Cooperation.html" %}
 
-### NetLogo Modell Cooperation
-Das Modell Cooperation und die Adaption funktionieren beide nach den gleichen Grundregel:
+### NetLogo Model Cooperation
+The cooperation model works according to the basic rule:
 
-* die Kühe essen auf dem Feld auf dem sie sich befinden Gras und erhalten dadurch Energie
-* haben sie genug Energie reproduzieren sie sich
-* haben sie zu wenig Energie sterben sie
-* sie gehen nach jedem Zeitschritt weiter auf ein neues Grasfeld
-* das Gras wächst nach; halbhohes Gras schneller als ganz abgefressenes Gras
+* the cows eat grass in the field they are in and get energy from it
+* if they have enough energy, they reproduce
+* if they don't have enough energy they die
+* they advance to a new grass field after each time step
+* the grass grows back; half-grown grass faster than grass that has been completely eaten away
+* There are sustainable cows (cooperative cows) and greedy cows (greedy cows)
+* the cooperative cows only eat tall grass and eat up to half of it
+* the greedy cows eat both tall and semi-tall grass
 
-* es gibt nachhaltige gehaltene Kühe (cooperative cows) und gierige Kühe (greedy cows)
-* die cooperative cows essen nur hohes Gras und fressen es bis zur Hälfte ab
-* die greedy cows essen sowohl hohes als auch halb hohes Gras 
+### Use the model
+Try to answer the following questions by adjusting the settings of the model world using the sliders:
 
-### Probiert doch mal aus...
-Nach dem ihr jetzt das Modell entweder hier auf der Webseite oder mit Hilfe eurer lokalen Installation nutzen könnt ist es spannend einfach mal ein paar Dinge auszuprobieren. 
-
-Versucht einmal folgende Fragen zu beantworten in dem ihr die Einstellungen der Modellwelt durch die Schieberegeler anpasst:
-
-* wie viele nachhaltig gehaltenen Kühe auf der Weide leben können
-* wie viele Kühe in nicht nachhaltiger Haltung auf die Weide passen
-* welche Kühe bei gemischter Haltung kurzfristig und welche Kühe langfristig dominieren
-* was scheint euch ein optimales Ergebnis zu sein? Warum?
- 
+* how many sustainably raised cows can live on the pasture
+* how many cows in non-sustainable husbandry fit on the pasture
+* which cows in mixed housing dominate in the short term and which cows dominate in the long term
+* what do you think is the best result? Why?
