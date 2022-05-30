@@ -1,5 +1,5 @@
 ---
-title: Modellieren mit Netlogo
+title: Modeling with Netlogo
 toc: true 
 header: 
   image: "/assets/images/climate-splash.jpg"
