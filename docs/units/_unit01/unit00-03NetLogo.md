@@ -11,6 +11,8 @@ The model cooperation is helpful in the context of education for sustainable dev
 <!--more-->
  
  {% include media url="/assets/misc/Cooperation.html" %}
+ 
+ If the model runs to slow try running it [here](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Curricular%20Models/BEAGLE%20Evolution/EACH/Cooperation.nlogo)
 
 ### Use the model
 Try to answer the following questions by adjusting the settings of the model world using the sliders:
