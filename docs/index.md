@@ -34,6 +34,12 @@ At the end of the workshop you:
 * can handle the NetLogo interface and use models from the NetLogo library
 * are able to refelct on NetLogos potential for a Geography lessons
 
+## Survey
+At the end of the workshop I will ask you to fill out this [survey](
+https://moc.gis-ma.org/limesurvey/index.php/979633?lang=en) for evaluation purposes.
+
+
+## Contact
 I hope you enjoy! If there any questions later on, feel free to contact me.
 
 
