@@ -10,7 +10,7 @@ We will now start to work with NetLogo. You will find some general information h
 
 <!--more-->
 
-Your group should decide on a model, work through the assignments on the models pages and prepare a short presentation (5 minutes) of the model and your results.
+Your group should decide on a model, work through the assignments on the models pages and prepare two short presentation (5 minutes) of the model and your results.
 {: .notice--success}
 
 
